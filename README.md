@@ -8,12 +8,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=Sass&labelColor=0D1117)&nbsp;
-
+![Sass](https://img.shields.io/badge/-Angular-f70a0a?style=for-the-badge&logo=Angular&labelColor=f70a0a)&nbsp;
+![JavaScript](https://img.shields.io/badge/-TypeScript-285efa?style=for-the-badge&logo=TypeScript&labelColor=285efa)&nbsp;
 
 
 ### Studying in this moment:
-![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=Sass&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117)&nbsp;
 ![Flutter](https://img.shields.io/badge/-FLutter-0D1117?style=for-the-badge&logo=Flutter&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117)&nbsp;
 
